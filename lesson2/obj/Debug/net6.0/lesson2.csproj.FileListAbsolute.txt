@@ -1,0 +1,15 @@
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\bin\Debug\net6.0\lesson2.exe
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\bin\Debug\net6.0\lesson2.deps.json
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\bin\Debug\net6.0\lesson2.runtimeconfig.json
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\bin\Debug\net6.0\lesson2.dll
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\bin\Debug\net6.0\lesson2.pdb
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.csproj.AssemblyReference.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfoInputs.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.AssemblyInfo.cs
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.csproj.CoreCompileInputs.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.dll
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\refint\lesson2.dll
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.pdb
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\lesson2.genruntimeconfig.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\lesson\lesson2\obj\Debug\net6.0\ref\lesson2.dll

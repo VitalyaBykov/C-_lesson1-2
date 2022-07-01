@@ -1,2 +1,46 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//? Задача 10: Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
+
+// Console.WriteLine("принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.");
+// int num = new Random().Next(100, 999);
+// Console.WriteLine("Сгенерированно случайное число " + num);
+
+// int showNum(int num1)
+// {
+// 	int firstSymbol = num1 / 10 % 10;
+// 	return firstSymbol;
+// }
+
+// Console.WriteLine(showNum(num));
+
+//==========================================================================================================================================================
+
+//? Задача 13: Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+
+// Console.Write("Выводит третью цифру заданного числа или сообщает, что третьей цифры нет: ");
+
+// string number = Console.ReadLine();
+
+// string function()
+// {
+// 	if (number.Length < 2 ){
+// 		return "Третей цифры нет";
+// 	} else {
+// 		return "Третья цифра числа" + number + ": " + number[2];
+// 	}
+// }
+// Console.WriteLine(function());
+
+//? Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+
+Console.Write("Напишите день недели  от 1 до 7 : ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+if (number >= 1 && number <= 5){
+	Console.WriteLine("Будний");
+}  
+else if (number >= 6 && number <= 7)
+{
+	Console.WriteLine("Выходной");
+} else {
+	Console.WriteLine("Некоректное значение");
+}
