@@ -1,0 +1,15 @@
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\bin\Debug\net6.0\seminar_1-lesson.exe
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\bin\Debug\net6.0\seminar_1-lesson.deps.json
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\bin\Debug\net6.0\seminar_1-lesson.runtimeconfig.json
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\bin\Debug\net6.0\seminar_1-lesson.dll
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\bin\Debug\net6.0\seminar_1-lesson.pdb
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.csproj.AssemblyReference.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.AssemblyInfoInputs.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.AssemblyInfo.cs
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.csproj.CoreCompileInputs.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.dll
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\refint\seminar_1-lesson.dll
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.pdb
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\seminar_1-lesson.genruntimeconfig.cache
+D:\web\Обучение\GigBrains\Вторая учеба\С#\1\Examples\seminar_1\seminar_1-lesson\obj\Debug\net6.0\ref\seminar_1-lesson.dll
